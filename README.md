@@ -2,7 +2,7 @@
 
 kubernetes 相关 images 同步
 
-# 2018.1.2017
+# 2018.3.7
 
 * 新增监控组件heapster v1.5.0
 	
